@@ -1,3 +1,5 @@
+// trazendo somente esses campos//
+
 package com.devsuperior.dslist.dto;
 
 import com.devsuperior.dslist.entities.Game;
